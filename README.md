@@ -1,2 +1,2 @@
-# react-native
+# React Native
 Practice React Native
